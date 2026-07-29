@@ -19,3 +19,6 @@ pnpm-debug.log*
 # macOS-generated files
 .DS_Store
 .sdai/
+
+# npm lockfile (project uses pnpm)
+package-lock.json
