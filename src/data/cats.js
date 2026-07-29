@@ -1,0 +1,58 @@
+// Статические данные о товарах — «супер коты».
+// Визуал каждого кота задаётся эмодзи и градиентом (без внешних изображений/API).
+export const cats = [
+  {
+    id: 'kapitan-usik',
+    name: 'Капитан Усик',
+    power: 'Космический защитник',
+    emoji: '🐱',
+    gradient: 'linear-gradient(135deg, #6a5cff 0%, #48c6ef 100%)',
+    price: 4990,
+    description: 'Отважный кот-астронавт, охраняющий галактику от скуки и пустых мисок.',
+  },
+  {
+    id: 'ledyanaya-lapa',
+    name: 'Ледяная Лапа',
+    power: 'Криомагия',
+    emoji: '🐈‍⬛',
+    gradient: 'linear-gradient(135deg, #00d2ff 0%, #3a47d5 100%)',
+    price: 5490,
+    description: 'Замораживает врагов одним взмахом хвоста и остужает горячий чай хозяина.',
+  },
+  {
+    id: 'ognennyy-murmyr',
+    name: 'Огненный Мурмыр',
+    power: 'Пиротехника',
+    emoji: '😼',
+    gradient: 'linear-gradient(135deg, #ff512f 0%, #f09819 100%)',
+    price: 5990,
+    description: 'Его мурлыканье согревает целый дом, а взгляд поджигает сердца.',
+  },
+  {
+    id: 'grozovoy-barsik',
+    name: 'Грозовой Барсик',
+    power: 'Управление молниями',
+    emoji: '⚡',
+    gradient: 'linear-gradient(135deg, #f7971e 0%, #ffd200 100%)',
+    price: 6490,
+    description: 'Молниеносно ловит лазерную точку и заряжает телефоны одним прыжком.',
+  },
+  {
+    id: 'tenevoy-prizrak',
+    name: 'Теневой Призрак',
+    power: 'Невидимость',
+    emoji: '🐾',
+    gradient: 'linear-gradient(135deg, #232526 0%, #7b4397 100%)',
+    price: 6990,
+    description: 'Появляется из ниоткуда ровно в момент открытия банки корма.',
+  },
+  {
+    id: 'zvyozdnaya-mishel',
+    name: 'Звёздная Мишель',
+    power: 'Телепортация',
+    emoji: '🌟',
+    gradient: 'linear-gradient(135deg, #ee0979 0%, #ff6a00 100%)',
+    price: 7490,
+    description: 'Мгновенно телепортируется на самый тёплый плед в квартире.',
+  },
+];

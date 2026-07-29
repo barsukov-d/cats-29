@@ -1,0 +1,48 @@
+# Persistent memory (role Developer)
+# Regenerated from memory_entries — one bullet per note, see topic files for detail.
+
+- [success] 2026-07-17 Create a new screen file screens/AboutCats.md with a heading About Cats and one paragraph describing the shop, followin… → success-2026-07-17-45a85b03.md
+- [success] 2026-07-17 Create a second screen file screens/ContactCats.md with a heading Contact Cats and one paragraph with contact details, … → success-2026-07-17-0823ad18.md
+- [success] 2026-07-17 Append one line PING_OK to the file HELLO_CLAUDE.md. Do nothing else. Result: Done. Appended "PING_OK" to HELLO_CLAUDE.… → success-2026-07-17-03213ee1.md
+- [success] 2026-07-17 ## Task Create a modern, attractive landing page for a cats shop. The page should include: - A compelling hero section … → success-2026-07-17-d2c7ccca.md
+- [success] 2026-07-17 Create a file named PING.md at the repo root containing exactly the text: pong Result: Done. Created `PING.md` at the r… → success-2026-07-17-2438414c.md
+- [success] 2026-07-17 ## Task Создай файл PROOF.md в корне репозитория и запиши в него вывод трёх команд: 1) claude --version 2) hostname 3) … → success-2026-07-17-451ea49c.md
+- [success] 2026-07-17 ## Previous output Готово. Создан файл PROOF.md с выводом команд и проверкой. ## Review issues to address - The task re… → success-2026-07-17-a1ff5f58.md
+- [success] 2026-07-17 ## Previous output Готово! Файл PROOF.md создан в корне репозитория со всеми требуемыми данными: - `claude --version`: … → success-2026-07-17-8e90c201.md
+- [success] 2026-07-17 Create a file named PING2.md at the repo root containing exactly the text: pong2 Result: Done. Created `PING2.md` at th… → success-2026-07-17-e5a6b934.md
+- [success] 2026-07-17 Create a file named PING.md at the repo root containing exactly the text: pong Result: Done. Created `PING.md` at the r… → success-2026-07-17-ae33ac33.md
+- [success] 2026-07-17 Create a file named PING.md at the repo root containing exactly the text: pong Result: Done. Created `PING.md` at the r… → success-2026-07-17-cf07458a.md
+- [success] 2026-07-17 need to create documents for landig page cats shop ## Previous result I'd like to clarify what you're looking for befor… → success-2026-07-17-d9eab656.md
+- [success] 2026-07-18 хочу страницу подписки на рассылку о новых котиках, но не знаю какие поля нужны и как это должно выглядеть --- # Approv… → success-2026-07-18-613f00b8.md
+- [success] 2026-07-18 Давай сделаем лендинг для кошачьего магазина. --- # Approved contract (v1) ## Goal Build a simple React landing page fo… → success-2026-07-18-a54127ae.md
+- [success] 2026-07-20 Хочу лендинг в страницу для магазинах и ошочих товаров. --- # Approved contract (v1) ## Goal Deliver a single-page resp… → success-2026-07-20-6c306d05.md
+- [success] 2026-07-20 Создай лендинг-страницу для интернет-магазина cat's shop --- # Approved contract (v1) ## Goal Build a single-page landi… → success-2026-07-20-63d0379c.md
+- [success] 2026-07-20 Create a minimal index.html with the text Hello E2E. Keep it as simple as possible - a single static file, no build too… → success-2026-07-20-128b1ac0.md
+- [failure] 2026-07-20 Create a minimal index.html containing the text Hello E2E. Single static file, nothing else. → failure-2026-07-20-6b1baf89.md
+- [success] 2026-07-20 Create a minimal index.html containing the text Hello E2E. Single static file, nothing else. Result: `index.html` alrea… → success-2026-07-20-3c30e4b6.md
+- [success] 2026-07-20 Add a file NOTES.md containing one line: E2E history repo check. Result: Done. Created `NOTES.md` at the repo root cont… → success-2026-07-20-1cd3a8ea.md
+- [success] 2026-07-20 Create a file JUNK.txt with content: stale prebind content. Only that. Result: Created `JUNK.txt` with the content `sta… → success-2026-07-20-ad8e36e1.md
+- [success] 2026-07-20 Create a file CLEAN.md containing one line: post-rebind clean diff. Result: Created `CLEAN.md` at the repo root contain… → success-2026-07-20-05faf145.md
+- [success] 2026-07-22 ## Task Create a file greeting.js that exports a function greet(name) returning "Hello, <name>!" and a file greeting.te… → success-2026-07-22-72ec4f29.md
+- [success] 2026-07-22 ## Task Add a file roadmap.md that contains a section header "Planned" and under it exactly the line: TODO: integrate g… → success-2026-07-22-8f9c597c.md
+- [success] 2026-07-22 ## Task Create files util-a.js, util-b.js and util-c.js, each defining and exporting a function formatMsg(s) returning … → success-2026-07-22-fa1753ac.md
+- [success] 2026-07-22 ## Previous output Done. ## What I changed - **`util-a.js`, `util-b.js`, `util-c.js`** (created) — each defines and exp… → success-2026-07-22-5a2f0c02.md
+- [success] 2026-07-22 ## Previous output Done. ## What I changed - **`util-a.js`, `util-b.js`, `util-c.js`** — each defines `formatMsg(s)` re… → success-2026-07-22-4d8955b5.md
+- [success] 2026-07-22 ## Task Create files util-a.js, util-b.js and util-c.js, each defining and exporting a function formatMsg(s) returning … → success-2026-07-22-e6289f6a.md
+- [success] 2026-07-22 ## Previous output Done. ## What I changed - **`util-a.js`, `util-b.js`, `util-c.js`** (created) — each defines `format… → success-2026-07-22-a4b644ce.md
+- [success] 2026-07-22 ## Task Сделай страницу-визитку: файл card.html с именем Gena, строкой роли Developer и ссылкой на github.com/self-deve… → success-2026-07-22-a140c8e8.md
+- [success] 2026-07-23 ## Task Before coding, consult your persistent memory directory for relevant past lessons (read the topic files that lo… → success-2026-07-23-243534fa.md
+- [success] 2026-07-23 ## Task Create util/date-format.js exporting formatDate(d) returning YYYY-MM-DD. Project convention you must honor and … → success-2026-07-23-faf864d1.md
+- [success] 2026-07-23 ## Task Create util/string-case.js exporting toKebab(s) converting camelCase to kebab-case. Follow ALL existing util-fi… → success-2026-07-23-28d60c68.md
+- [success] 2026-07-23 ## Task Create util/date-format.js exporting formatDate(d) returning YYYY-MM-DD. Project convention you must honor and … → success-2026-07-23-a5ceb53c.md
+- [success] 2026-07-23 ## Task Create util/string-case.js exporting toKebab(s) converting camelCase to kebab-case. Follow ALL existing util-fi… → success-2026-07-23-0499458b.md
+- [success] 2026-07-23 ## Task Create util/num-pad.js exporting pad2(n) returning two-digit zero-padded string. If your persistent memory reco… → success-2026-07-23-3d0f064a.md
+- [success] 2026-07-28 ## Task [QA follow-up] create SPIKE.md containing the word closed Result: Done. Created `SPIKE.md` at the repo root con… → success-2026-07-28-75d0ddbb.md
+- [success] 2026-07-28 ## Task Сделай одностраничный сайт-визитку на чистом HTML+CSS для кофейни «Зерно»: шапка, секция о нас, меню из 4-6 поз… → success-2026-07-28-9fffc1ac.md
+- [success] 2026-07-28 Сделай одностраничный сайт-визитку на чистом HTML+CSS для кофейни «Зерно»: шапка, секция о нас, меню из 4-6 позиций с ц… → success-2026-07-28-b9bd3e94.md
+- [success] 2026-07-28 ## Task Сделай одностраничный сайт-визитку пекарни «Колос»: шапка с названием, секция «О нас», меню из 4-6 позиций с на… → success-2026-07-28-057087d7.md
+- [success] 2026-07-29 Сделай одностраничный сайт-визитку пекарни «Колос»: шапка с названием, секция «О нас», меню из 4-6 позиций с названиями… → success-2026-07-29-03d9414c.md
+- [success] 2026-07-29 ## Task Сделай одностраничный сайт-визитку цветочного магазина «Пион»: шапка с названием, секция «О нас», каталог из 5-… → success-2026-07-29-da125510.md
+- [success] 2026-07-29 Сделай одностраничный сайт-визитку цветочного магазина «Пион»: шапка с названием, секция «О нас», каталог из 5-7 букето… → success-2026-07-29-c2df413f.md
+- [success] 2026-07-29 Сделай одностраничный сайт-визитку цветочного магазина «Пион»: шапка с названием, секция «О нас», каталог из 5-7 букето… → success-2026-07-29-83d2b296.md
+- [success] 2026-07-29 ## Task давай сделаем простой лендинг на фреймворке astro в лендинге будут карточки товаров супер котов Сделай светлая … → success-2026-07-29-bb2a62e0.md
